@@ -33,44 +33,6 @@ export default function Skills() {
 
       <div className="grid grid-cols-5 gap-4">
         <Tools />
-        {/* <div className="flex justify-center items-center flex-col hover:text-teal-300">
-          <FaJs size="2.5em" />
-          <span className="text-xs">JavaScript</span>
-        </div>
-        <div className="flex justify-center items-center flex-col hover:text-teal-300">
-          <FaPhp size="2.5em" />
-          <span className="text-xs">PHP</span>
-        </div>
-        <div className="flex justify-center items-center flex-col hover:text-teal-300">
-          <FaLaravel size="2.5em" />
-          <span className="text-xs">Laravel</span>
-        </div>
-        <div className="flex justify-center items-center flex-col hover:text-teal-300">
-          <SiMysql size="2.5em" />
-          <span className="text-xs">MySql</span>
-        </div>
-        <div className="flex justify-center items-center flex-col hover:text-teal-300">
-          <FaHtml5 size="2.5em" />
-          <span className="text-xs">HTML</span>
-        </div> */}
-
-        {/* <FaPhp className="hover:text-teal-300" size="2em" />
-        <FaLaravel className="hover:text-teal-300" size="2em" />
-        <SiMysql className="hover:text-teal-300" size="2em" />
-        <FaHtml5 className="hover:text-teal-300" size="2em" />
-        <FaCss3Alt className="hover:text-teal-300" size="2em" />
-        <FaVuejs className="hover:text-teal-300" size="2em" />
-        <FaReact className="hover:text-teal-300" size="2em" />
-        <FaAngular className="hover:text-teal-300" size="2em" />
-        <FaSquareGithub className="hover:text-teal-300" size="2em" />
-        <FaPython className="hover:text-teal-300" size="2em" />
-        <FaNodeJs className="hover:text-teal-300" size="2em" />
-        <FaBootstrap className="hover:text-teal-300" size="2em" />
-        <IoLogoIonic className="hover:text-teal-300" size="2em" />
-        <SiTailwindcss className="hover:text-teal-300" size="2em" />
-        <FaSquareGitlab className="hover:text-teal-300" size="2em" />
-        <TbBrandCSharp className="hover:text-teal-300" size="2em" />
-        <SiVuetify className="hover:text-teal-300" size="2em" /> */}
       </div>
     </section>
   );

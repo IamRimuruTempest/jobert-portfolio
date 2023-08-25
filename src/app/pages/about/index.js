@@ -13,21 +13,16 @@ export default function About() {
       </div>
       <div>
         <p className="mb-4">
-          Hello, I'm Jobert Advento. A Full Stack Web Developer with a
-          strong desire to create dynamic and user-friendly websites. My
-          knowledge of both front-end and back-end programming allows me to
-          navigate the entire web development process with ease.
+          Hello, I'm Jobert Advento. I'm a passionate Full-Stack Web Developer
+          based in the Philippines with a strong desire to create dynamic and
+          user-friendly websites.
         </p>
+
         <p className="mb-4">
-          My main focus these days is building products and leading projects for
-          our clients at Upstatement. In my free time Ive also released an
-          online video course that covers everything you need to know to build a
-          web app with the Spotify API.
-        </p>
-        <p className="mb-4">
-          When I’m not at the computer, I’m usually rock climbing, hanging out
-          with my wife and two cats, or running around Hyrule searching for
-          Korok seeds Korokseeds.
+          My journey in web development began with a strong foundation in
+          Computer Science from Cagayan State University - Carig Campus. This
+          educational experience provided me with the knowledge and tools to
+          excel in the field of web development.
         </p>
       </div>
     </section>

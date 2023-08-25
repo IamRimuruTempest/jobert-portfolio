@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 import Link from "next/link";
 import About from "./pages/about";
@@ -25,8 +26,8 @@ export default function Home() {
                 Full-Stack Web Developer
               </h2>
               <p className="mt-4 max-w-xs leading-normal">
-                I build accessible, inclusive products and digital experiences
-                for the web.
+                I hate programming, but it's a different story when my code is
+                working.
               </p>
 
               <Navbar />

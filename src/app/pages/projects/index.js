@@ -58,7 +58,7 @@ export default function Projects() {
                   <h3>
                     <a
                       className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                      href="{{project.link}}"
+                      href={project.link}
                       target="_blank"
                       rel="noreferrer"
                       aria-label="Build a Spotify Connected App"
