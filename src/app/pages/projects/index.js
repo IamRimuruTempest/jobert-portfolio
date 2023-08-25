@@ -8,7 +8,7 @@ export default function Projects() {
         "Cagayan State University - Technology Transfer and Business Development Division",
       link: "https://csu-ttbdd.com/",
       description:
-        "Video course that teaches how to build a web app with theSpotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.",
+        "This website showcases and highlights the achievements of TTBBDD and its incubatees, along with their innovative technologies and products. The platform effectively captures the essence of collaborative development within the TTBBDD ecosystem.",
       image: "/images/projects/csu-ttbdd.png",
       tools: ["Laravel", "Vue", "Vuetify"],
     },
@@ -16,15 +16,15 @@ export default function Projects() {
       title: "ColdSmart",
       link: "https://www.coldsmart.net/",
       description:
-        "Video course that teaches how to build a web app with theSpotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.",
+        "The purpose of this website is to effectively present and spotlight the features and services provided by the product developed by the ColdSmart team. ",
       image: "/images/projects/coldsmart.png",
       tools: ["ReactJS", "Firebase"],
     },
     {
-      title: "Cagayan State University Library Landing Page",
+      title: "Cagayan State University Library Web Page",
       link: "",
       description:
-        "Video course that teaches how to build a web app with theSpotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.",
+        "A thesis project enables students to conveniently reserve books online while also offering additional features such as the ability to provide ratings and comments",
       image: "/images/projects/csu-library-web.png",
       tools: ["Laravel", "Vue", "Vuetify"],
     },
@@ -32,7 +32,7 @@ export default function Projects() {
       title: "Cagayan State University Library Dashboard",
       link: "",
       description:
-        "Video course that teaches how to build a web app with theSpotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.",
+        "The thesis project focuses on the efficient monitoring of borrowed books from the library, incorporating various features such as real-time status updates of the books and a penalty system for students and many other features.",
       image: "/images/projects/csu-library-dashboard.png",
       tools: ["Laravel", "Vue", "Vuetify"],
     },

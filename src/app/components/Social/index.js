@@ -42,6 +42,7 @@ export default function Social() {
       <li className="mr-5 text-xs">
         <a
           className="block hover:text-slate-200"
+          href="https://www.instagram.com/iamtreboj123/"
           target="_blank"
           rel="noreferrer"
         >
