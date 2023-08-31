@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 
 export default function Projects() {
   const projects = [
@@ -22,7 +21,7 @@ export default function Projects() {
     },
     {
       title: "Cagayan State University Library Web Page",
-      link: "",
+      link: "https://github.com/IamRimuruTempest/csulibrary-web",
       description:
         "A thesis project enables students to conveniently reserve books online while also offering additional features such as the ability to provide ratings and comments",
       image: "/images/projects/csu-library-web.png",
@@ -30,9 +29,9 @@ export default function Projects() {
     },
     {
       title: "Cagayan State University Library Dashboard",
-      link: "",
+      link: "https://github.com/IamRimuruTempest/library-dashboard",
       description:
-        "The thesis project focuses on the efficient monitoring of borrowed books from the library, incorporating various features such as real-time status updates of the books and a penalty system for students and many other features.",
+        "A thesis project focuses on the efficient monitoring of borrowed books from the library, incorporating various features such as real-time status updates of the books and a penalty system for students and many other features.",
       image: "/images/projects/csu-library-dashboard.png",
       tools: ["Laravel", "Vue", "Vuetify"],
     },
