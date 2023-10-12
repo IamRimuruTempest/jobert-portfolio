@@ -3,6 +3,14 @@ import Image from "next/image";
 export default function Projects() {
   const projects = [
     {
+      title: "AgriXcelerate Web Registration",
+      link: "https://agrixcelerate.vercel.app/",
+      description:
+        "The website serves as a registration platform for an event organized by CSU-TBIs. It is designed for students and researchers interested in participating in the event",
+      image: "/images/projects/agrixcelerate.png",
+      tools: ["ReactJS", "Javascript", "Tailwind CSS"],
+    },
+    {
       title:
         "Cagayan State University - Technology Transfer and Business Development Division",
       link: "https://csu-ttbdd.com/",
